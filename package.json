@@ -1,0 +1,11 @@
+{
+  "name": "cmps-415",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/alemmond/CMPS415.git",
+  "author": "allielemmond <allie.lemmond@gmail.com>",
+  "license": "MIT"
+}
